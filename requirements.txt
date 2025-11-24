@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-core
+chromadb
+tiktoken
+pandas
+numpy
+streamlit
+sec-api
+python-dotenv
+yfinance
+pydantic
