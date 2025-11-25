@@ -30,3 +30,6 @@ data/chroma_db/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Documents
+doc/
